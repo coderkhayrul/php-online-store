@@ -1,0 +1,1 @@
+<?php$host = "localhost";$user = "root";$password = "";$db_name = "freestore";$connection = mysqli_connect($host, $user, $password, $db_name);////if (!$connection){//    echo "DB CONNECTION FAILED". mysqli_error($connection);//}else{//    echo "DB CONNECTION SUCCESSFUL";//}
