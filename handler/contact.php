@@ -1,1 +1,1 @@
-<?phpinclude("../partials/connect.php");$email = $_POST['email'];$message = $_POST['message'];$sql = "INSERT INTO contact(email, message) VALUES('$email', '$message')";$connection->query($sql);
+<?phpinclude("../partials/connect.php");$email = $_POST['email'];$message = $_POST['message'];$sql = "INSERT INTO contact(email, message) VALUES('$email', '$message')";$connection->query($sql);
