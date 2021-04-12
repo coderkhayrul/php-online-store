@@ -20,16 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c544f8b1-7b5e-4622-ad25-4a6820b8b487" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/admin/adminpartials/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/adminpartials/session.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/product_show.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/product_view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/product_update.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/adminpartials/aside.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/adminpartials/aside.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/categories.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/categories.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/products.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/products.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/product_show.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/product_show.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +75,7 @@
       <workItem from="1618132882173" duration="152000" />
       <workItem from="1618146225897" duration="7421000" />
       <workItem from="1618222973226" duration="2518000" />
-      <workItem from="1618234684288" duration="9658000" />
+      <workItem from="1618234684288" duration="14423000" />
     </task>
     <servers />
   </component>
@@ -113,9 +106,10 @@
       <screen x="1600" y="0" width="1920" height="1040" />
     </state>
     <state x="2290" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1618224818162" />
-    <state x="2216" y="240" key="run.anything.popup" timestamp="1618151155327">
-      <screen x="1600" y="0" width="1920" height="1040" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1618252176100">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="616" y="240" key="run.anything.popup/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1618252176100" />
     <state x="2216" y="240" key="run.anything.popup/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1618151155327" />
   </component>
 </project>
