@@ -1,0 +1,1 @@
+<?phpif (isset($_GET['p_id'])){    include("../partials/connect.php");    $product_id = $_GET['p_id'];    $sql = "DELETE FROM `products` WHERE id =$product_id";    $delete_product = mysqli_query($connection, $sql);    if ($delete_product){    header("Location:product_show.php");    }else{        echo "QUERY ERROR";    }}
