@@ -1,1 +1,1 @@
-<?phpinclude("../partials/connect.php");$category_name = $_POST['name'];$sql = "INSERT INTO categories(name) VALUES('$category_name')";$connection->query($sql);
+<?phpinclude("../partials/connect.php");$category_name = $_POST['name'];$sql = "INSERT INTO categories(name) VALUES('$category_name')";$connection->query($sql);header("Location:categories.php");
