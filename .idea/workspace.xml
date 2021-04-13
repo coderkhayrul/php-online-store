@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c544f8b1-7b5e-4622-ad25-4a6820b8b487" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/admin/product_delete_handler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/image_2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/admin/product_show.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/product_show.php" afterDir="false" />
     </list>
@@ -78,7 +76,7 @@
       <workItem from="1618146225897" duration="7421000" />
       <workItem from="1618222973226" duration="2518000" />
       <workItem from="1618234684288" duration="14423000" />
-      <workItem from="1618321610333" duration="5122000" />
+      <workItem from="1618321610333" duration="6100000" />
     </task>
     <servers />
   </component>
