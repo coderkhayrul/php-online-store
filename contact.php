@@ -54,7 +54,7 @@
                             </span>
 
                             <p class="stext-115 cl6 size-213 p-t-18">
-                                Coza Store Center 8th floor, 379 Hudson St, New York, NY 10018 US
+                                Coza Store Center 8th floor, Araihazar, Narayangonj, 1450 BD
                             </p>
                         </div>
                     </div>
@@ -70,7 +70,7 @@
                             </span>
 
                             <p class="stext-115 cl1 size-213 p-t-18">
-                                +1 800 1236879
+                                +880-183-50619668
                             </p>
                         </div>
                     </div>
@@ -82,11 +82,11 @@
 
                         <div class="size-212 p-t-2">
                             <span class="mtext-110 cl2">
-                                Sale Support
+                                Support
                             </span>
 
                             <p class="stext-115 cl1 size-213 p-t-18">
-                                contact@example.com
+                                support@coderkhayrul.xyz
                             </p>
                         </div>
                     </div>
