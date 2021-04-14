@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c544f8b1-7b5e-4622-ad25-4a6820b8b487" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cart-remove.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/carthandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/carthandler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partials/cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/partials/cart.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shoping-cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/shoping-cart.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,7 @@
       <workItem from="1618384928884" duration="9730000" />
       <workItem from="1618404577741" duration="3010000" />
       <workItem from="1618419954702" duration="26000" />
-      <workItem from="1618420178562" duration="7660000" />
+      <workItem from="1618420178562" duration="9558000" />
     </task>
     <servers />
   </component>
