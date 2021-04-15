@@ -1,0 +1,1 @@
+<?php$total =$_POST['total'];echo $total;
