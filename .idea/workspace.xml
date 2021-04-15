@@ -20,9 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c544f8b1-7b5e-4622-ad25-4a6820b8b487" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/customerform.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handler/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ff.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handler/customer_session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handler/login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customerform.php" beforeDir="false" afterPath="$PROJECT_DIR$/customerform.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoping-cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/shoping-cart.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +37,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="CopyImageOptionsProvider">
+    <option name="myDirectoryToSave" value="C:\Users\Khayrulshanto\Pictures\CODE IMAGE" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,8 +58,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Pictures/CODE IMAGE" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.rainbow.brackets" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -85,7 +95,11 @@
       <workItem from="1618384928884" duration="9730000" />
       <workItem from="1618404577741" duration="3010000" />
       <workItem from="1618419954702" duration="26000" />
-      <workItem from="1618420178562" duration="14775000" />
+      <workItem from="1618420178562" duration="15973000" />
+      <workItem from="1618474563520" duration="536000" />
+      <workItem from="1618475126762" duration="28000" />
+      <workItem from="1618475172145" duration="384000" />
+      <workItem from="1618475595799" duration="6529000" />
     </task>
     <servers />
   </component>
@@ -108,19 +122,36 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2298" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618121688854">
-      <screen x="1600" y="0" width="1920" height="1040" />
+    <state x="820" y="413" key="#Custom_Plugin_Repositories" timestamp="1618475564611">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="820" y="413" key="#Custom_Plugin_Repositories/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1618475564611" />
+    <state x="845" y="383" key="#Notifications" timestamp="1618475323503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="383" key="#Notifications/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1618475323503" />
+    <state x="698" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618476048604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="698" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1618476048604" />
     <state x="2298" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1618121688854" />
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618335825918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1618335825918" />
     <state x="2290" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1618224818162" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1618322700764">
+    <state x="876" y="345" key="FileChooserDialogImpl" timestamp="1618475559903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1618322700764" />
+    <state x="876" y="345" key="FileChooserDialogImpl/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1618475559903" />
+    <state x="643" y="163" width="998" height="708" key="SettingsEditor" timestamp="1618481196646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="643" y="163" width="998" height="708" key="SettingsEditor/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1618481196646" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1618476845681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1618476845681" />
     <state x="2216" y="240" key="run.anything.popup/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1618151155327" />
   </component>
 </project>
